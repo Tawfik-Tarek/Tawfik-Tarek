@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-My name is Tawfik Tarek and I'm a front end developer.
+My name is Tawfik Tarek and I'm a Full-Stack developer.
 
 ## About me
 
